@@ -1,0 +1,28 @@
+200
+A: 95 111.375 80
+B: 54 154 20
+C: 34 186 10
+D: None
+E: None
+F: 74 122 10
+G: 169 154 20
+H: None
+I: 189 175 10
+J: 149 133 10
+K: None
+L: 55.667 72.667 30
+M: None
+N: 71 84.5 20
+O: None
+P: 78 98 10
+Q: 64 71 10
+R: None
+S: 25 49 10
+T: None
+U: 147 57 10
+
+A | B G L U
+B | C D E F
+G | H I J K
+L | M N S T
+N | O P Q R
